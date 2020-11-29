@@ -1,0 +1,14 @@
+#!/usr/bin/env bash 
+
+# copy submission files for testing 
+cp /autograder/submission/hw3-q1.sql /autograder/source/submission
+cp /autograder/submission/hw3-q2.sql /autograder/source/submission
+cp /autograder/submission/hw3-q3.sql /autograder/source/submission
+cp /autograder/submission/hw3-q4.sql /autograder/source/submission
+cp /autograder/submission/hw3-q5.sql /autograder/source/submission
+cp /autograder/submission/hw3-q6.sql /autograder/source/submission
+cp /autograder/submission/hw3-q7.sql /autograder/source/submission
+
+cd /autograder/source
+
+python run_tests.py --timeout=1200

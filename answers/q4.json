@@ -1,0 +1,1063 @@
+{
+	"requestID": "1fa0e7dd-ec9f-4ed0-9fb7-2860baed0b87",
+	"signature": "*",
+	"results": [ {
+		"total_population" : 1321885.28,
+		"num_countries" : 1,
+		"ethnic_group" : "Lur"
+	}, {
+		"total_population" : 16053.70875,
+		"num_countries" : 1,
+		"ethnic_group" : "Finn"
+	}, {
+		"total_population" : 24122.56,
+		"num_countries" : 1,
+		"ethnic_group" : "Maya"
+	}, {
+		"total_population" : 102836.49,
+		"num_countries" : 1,
+		"ethnic_group" : "Saho"
+	}, {
+		"total_population" : 7.237394970000002E7,
+		"num_countries" : 13,
+		"ethnic_group" : "Arab"
+	}, {
+		"total_population" : 270292.0,
+		"num_countries" : 1,
+		"ethnic_group" : "Celt"
+	}, {
+		"total_population" : 774605.12,
+		"num_countries" : 1,
+		"ethnic_group" : "Fula"
+	}, {
+		"total_population" : 1185437.4499999997,
+		"num_countries" : 6,
+		"ethnic_group" : "Roma"
+	}, {
+		"total_population" : 1690601.12,
+		"num_countries" : 1,
+		"ethnic_group" : "Meru"
+	}, {
+		"total_population" : 1892852.64,
+		"num_countries" : 1,
+		"ethnic_group" : "Beja"
+	}, {
+		"total_population" : 2573656.58,
+		"num_countries" : 3,
+		"ethnic_group" : "Afar"
+	}, {
+		"total_population" : 4137806.4,
+		"num_countries" : 1,
+		"ethnic_group" : "Shan"
+	}, {
+		"total_population" : 4626598.4,
+		"num_countries" : 1,
+		"ethnic_group" : "Kurd"
+	}, {
+		"total_population" : 5482687.36,
+		"num_countries" : 1,
+		"ethnic_group" : "Hutu"
+	}, {
+		"total_population" : 130977.04,
+		"num_countries" : 1,
+		"ethnic_group" : "MBaka"
+	}, {
+		"total_population" : 185530.74,
+		"num_countries" : 1,
+		"ethnic_group" : "Vedda"
+	}, {
+		"total_population" : 397552.91,
+		"num_countries" : 5,
+		"ethnic_group" : "Black"
+	}, {
+		"total_population" : 432310.08,
+		"num_countries" : 1,
+		"ethnic_group" : "Inuit"
+	}, {
+		"total_population" : 818347.44,
+		"num_countries" : 1,
+		"ethnic_group" : "Diola"
+	}, {
+		"total_population" : 884095.04,
+		"num_countries" : 1,
+		"ethnic_group" : "Banda"
+	}, {
+		"total_population" : 1302138.24,
+		"num_countries" : 1,
+		"ethnic_group" : "Tutsi"
+	}, {
+		"total_population" : 1568771.2,
+		"num_countries" : 1,
+		"ethnic_group" : "Kirdi"
+	}, {
+		"total_population" : 1612654.08,
+		"num_countries" : 1,
+		"ethnic_group" : "Iteso"
+	}, {
+		"total_population" : 1690601.12,
+		"num_countries" : 1,
+		"ethnic_group" : "Kisii"
+	}, {
+		"total_population" : 3273389.76,
+		"num_countries" : 1,
+		"ethnic_group" : "Wolof"
+	}, {
+		"total_population" : 3944736.0,
+		"num_countries" : 1,
+		"ethnic_group" : "Luhya"
+	}, {
+		"total_population" : 6531153.16,
+		"num_countries" : 3,
+		"ethnic_group" : "Tatar"
+	}, {
+		"total_population" : 7310693.9799999995,
+		"num_countries" : 3,
+		"ethnic_group" : "Azeri"
+	}, {
+		"total_population" : 8231002.02,
+		"num_countries" : 4,
+		"ethnic_group" : "Kazak"
+	}, {
+		"total_population" : 9775096.32,
+		"num_countries" : 1,
+		"ethnic_group" : "Khmer"
+	}, {
+		"total_population" : 9796880.899999999,
+		"num_countries" : 2,
+		"ethnic_group" : "Czech"
+	}, {
+		"total_population" : 2.0872671679999996E7,
+		"num_countries" : 6,
+		"ethnic_group" : "Uzbek"
+	}, {
+		"total_population" : 48.0,
+		"num_countries" : 1,
+		"ethnic_group" : "Bounty"
+	}, {
+		"total_population" : 5.4957132185234375E7,
+		"num_countries" : 18,
+		"ethnic_group" : "Indian"
+	}, {
+		"total_population" : 256928.5,
+		"num_countries" : 2,
+		"ethnic_group" : "Samoan"
+	}, {
+		"total_population" : 604745.28,
+		"num_countries" : 1,
+		"ethnic_group" : "Batobo"
+	}, {
+		"total_population" : 827784.36,
+		"num_countries" : 4,
+		"ethnic_group" : "Creole"
+	}, {
+		"total_population" : 1143433.28,
+		"num_countries" : 1,
+		"ethnic_group" : "Gurage"
+	}, {
+		"total_population" : 1321885.28,
+		"num_countries" : 1,
+		"ethnic_group" : "Baloch"
+	}, {
+		"total_population" : 1694366.16,
+		"num_countries" : 2,
+		"ethnic_group" : "Tuareg"
+	}, {
+		"total_population" : 1791314.24,
+		"num_countries" : 1,
+		"ethnic_group" : "Aymara"
+	}, {
+		"total_population" : 2004860.16,
+		"num_countries" : 1,
+		"ethnic_group" : "Djerma"
+	}, {
+		"total_population" : 2971923.04,
+		"num_countries" : 2,
+		"ethnic_group" : "Fulani"
+	}, {
+		"total_population" : 3395362.24,
+		"num_countries" : 1,
+		"ethnic_group" : "Baoule"
+	}, {
+		"total_population" : 4306185.92,
+		"num_countries" : 1,
+		"ethnic_group" : "Hazara"
+	}, {
+		"total_population" : 5145449.6,
+		"num_countries" : 1,
+		"ethnic_group" : "Sidamo"
+	}, {
+		"total_population" : 1.1880163120000001E7,
+		"num_countries" : 3,
+		"ethnic_group" : "Somali"
+	}, {
+		"total_population" : 5958.34,
+		"num_countries" : 1,
+		"ethnic_group" : "Nauruan"
+	}, {
+		"total_population" : 4.766932992E7,
+		"num_countries" : 1,
+		"ethnic_group" : "English"
+	}, {
+		"total_population" : 1.4594863915374994E8,
+		"num_countries" : 17,
+		"ethnic_group" : "Russian"
+	}, {
+		"total_population" : 179981.34,
+		"num_countries" : 3,
+		"ethnic_group" : "Iranian"
+	}, {
+		"total_population" : 604745.28,
+		"num_countries" : 1,
+		"ethnic_group" : "Bunyoro"
+	}, {
+		"total_population" : 687629.44,
+		"num_countries" : 1,
+		"ethnic_group" : "Mandjia"
+	}, {
+		"total_population" : 1158391.36,
+		"num_countries" : 1,
+		"ethnic_group" : "Voltaic"
+	}, {
+		"total_population" : 1191016.3800000001,
+		"num_countries" : 2,
+		"ethnic_group" : "Spanish"
+	}, {
+		"total_population" : 1278932.64,
+		"num_countries" : 1,
+		"ethnic_group" : "Latvian"
+	}, {
+		"total_population" : 1344576.8,
+		"num_countries" : 1,
+		"ethnic_group" : "Bakongo"
+	}, {
+		"total_population" : 1333606.32,
+		"num_countries" : 1,
+		"ethnic_group" : "Bashkir"
+	}, {
+		"total_population" : 1482396.16,
+		"num_countries" : 1,
+		"ethnic_group" : "Soussou"
+	}, {
+		"total_population" : 1839024.96,
+		"num_countries" : 1,
+		"ethnic_group" : "Rakhine"
+	}, {
+		"total_population" : 2149577.12,
+		"num_countries" : 1,
+		"ethnic_group" : "Quechua"
+	}, {
+		"total_population" : 2373535.68,
+		"num_countries" : 1,
+		"ethnic_group" : "Kirghiz"
+	}, {
+		"total_population" : 3356179.52,
+		"num_countries" : 1,
+		"ethnic_group" : "Walloon"
+	}, {
+		"total_population" : 3847463.2,
+		"num_countries" : 2,
+		"ethnic_group" : "Malinke"
+	}, {
+		"total_population" : 4363309.92,
+		"num_countries" : 2,
+		"ethnic_group" : "Turkmen"
+	}, {
+		"total_population" : 5593632.64,
+		"num_countries" : 1,
+		"ethnic_group" : "Fleming"
+	}, {
+		"total_population" : 8612371.84,
+		"num_countries" : 1,
+		"ethnic_group" : "Pashtun"
+	}, {
+		"total_population" : 15350.72,
+		"num_countries" : 1,
+		"ethnic_group" : "Garifuna"
+	}, {
+		"total_population" : 66197.525,
+		"num_countries" : 1,
+		"ethnic_group" : "Chamorro"
+	}, {
+		"total_population" : 1.2469700608E8,
+		"num_countries" : 1,
+		"ethnic_group" : "Japanese"
+	}, {
+		"total_population" : 156594.3,
+		"num_countries" : 1,
+		"ethnic_group" : "Ossetian"
+	}, {
+		"total_population" : 637918.76,
+		"num_countries" : 1,
+		"ethnic_group" : "Nepalese"
+	}, {
+		"total_population" : 897548.24,
+		"num_countries" : 1,
+		"ethnic_group" : "Estonian"
+	}, {
+		"total_population" : 1071114.56,
+		"num_countries" : 1,
+		"ethnic_group" : "Assyrian"
+	}, {
+		"total_population" : 1403748.48,
+		"num_countries" : 1,
+		"ethnic_group" : "Batswana"
+	}, {
+		"total_population" : 2585724.8,
+		"num_countries" : 1,
+		"ethnic_group" : "Kimbundu"
+	}, {
+		"total_population" : 3659086.72,
+		"num_countries" : 1,
+		"ethnic_group" : "Georgian"
+	}, {
+		"total_population" : 4039510.8725,
+		"num_countries" : 6,
+		"ethnic_group" : "Armenian"
+	}, {
+		"total_population" : 5171433.16,
+		"num_countries" : 4,
+		"ethnic_group" : "Albanian"
+	}, {
+		"total_population" : 5615038.08,
+		"num_countries" : 1,
+		"ethnic_group" : "Scottish"
+	}, {
+		"total_population" : 1.0987487699687501E7,
+		"num_countries" : 19,
+		"ethnic_group" : "European"
+	}, {
+		"total_population" : 1172.2640625,
+		"num_countries" : 1,
+		"ethnic_group" : "Norwegian"
+	}, {
+		"total_population" : 2110.07984375,
+		"num_countries" : 1,
+		"ethnic_group" : "Christian"
+	}, {
+		"total_population" : 16123.08625,
+		"num_countries" : 1,
+		"ethnic_group" : "Ruthenian"
+	}, {
+		"total_population" : 59105.2,
+		"num_countries" : 1,
+		"ethnic_group" : "Kgalagadi"
+	}, {
+		"total_population" : 2.3802691584E8,
+		"num_countries" : 1,
+		"ethnic_group" : "Dravidian"
+	}, {
+		"total_population" : 149349.716015625,
+		"num_countries" : 3,
+		"ethnic_group" : "Europeans"
+	}, {
+		"total_population" : 3430299.84,
+		"num_countries" : 1,
+		"ethnic_group" : "Shankella"
+	}, {
+		"total_population" : 3826872.64,
+		"num_countries" : 1,
+		"ethnic_group" : "Ovimbundu"
+	}, {
+		"total_population" : 7435959.180000001,
+		"num_countries" : 2,
+		"ethnic_group" : "Bulgarian"
+	}, {
+		"total_population" : 2.892562432E7,
+		"num_countries" : 1,
+		"ethnic_group" : "Sundanese"
+	}, {
+		"total_population" : 42121.52,
+		"num_countries" : 1,
+		"ethnic_group" : "Circassian"
+	}, {
+		"total_population" : 97401.81999999999,
+		"num_countries" : 2,
+		"ethnic_group" : "Indonesian"
+	}, {
+		"total_population" : 161474.66,
+		"num_countries" : 1,
+		"ethnic_group" : "Hindustani"
+	}, {
+		"total_population" : 403303.65,
+		"num_countries" : 7,
+		"ethnic_group" : "Polynesian"
+	}, {
+		"total_population" : 491785.96,
+		"num_countries" : 1,
+		"ethnic_group" : "Karakalpak"
+	}, {
+		"total_population" : 934419.2,
+		"num_countries" : 1,
+		"ethnic_group" : "Black Maur"
+	}, {
+		"total_population" : 1582941.64,
+		"num_countries" : 2,
+		"ethnic_group" : "Macedonian"
+	}, {
+		"total_population" : 2418981.12,
+		"num_countries" : 1,
+		"ethnic_group" : "Karamojong"
+	}, {
+		"total_population" : 15006.88,
+		"num_countries" : 1,
+		"ethnic_group" : "Euronesians"
+	}, {
+		"total_population" : 50054.58,
+		"num_countries" : 1,
+		"ethnic_group" : "Greenlander"
+	}, {
+		"total_population" : 77575.0,
+		"num_countries" : 1,
+		"ethnic_group" : "Seychellois"
+	}, {
+		"total_population" : 6.724163839999999E7,
+		"num_countries" : 3,
+		"ethnic_group" : "Arab-Berber"
+	}, {
+		"total_population" : 1.11199461376E9,
+		"num_countries" : 1,
+		"ethnic_group" : "Han Chinese"
+	}, {
+		"total_population" : 145475.53,
+		"num_countries" : 3,
+		"ethnic_group" : "Micronesian"
+	}, {
+		"total_population" : 355451.45,
+		"num_countries" : 2,
+		"ethnic_group" : "Montenegrin"
+	}, {
+		"total_population" : 5282072.96,
+		"num_countries" : 1,
+		"ethnic_group" : "Berber Arab"
+	}, {
+		"total_population" : 31143.3,
+		"num_countries" : 1,
+		"ethnic_group" : "Afro-Chinese"
+	}, {
+		"total_population" : 43857.0,
+		"num_countries" : 1,
+		"ethnic_group" : "Scandinavian"
+	}, {
+		"total_population" : 1371153.28,
+		"num_countries" : 1,
+		"ethnic_group" : "Tigre Kunama"
+	}, {
+		"total_population" : 82926.0,
+		"num_countries" : 1,
+		"ethnic_group" : "Carib Indians"
+	}, {
+		"total_population" : 1.15282688E7,
+		"num_countries" : 1,
+		"ethnic_group" : "British Isles"
+	}, {
+		"total_population" : 34207.68,
+		"num_countries" : 1,
+		"ethnic_group" : "Sino-Mauritian"
+	}, {
+		"total_population" : 3818.5,
+		"num_countries" : 1,
+		"ethnic_group" : "African descent"
+	}, {
+		"total_population" : 6809.0,
+		"num_countries" : 1,
+		"ethnic_group" : "Basques Bretons"
+	}, {
+		"total_population" : 6.293935616E7,
+		"num_countries" : 1,
+		"ethnic_group" : "Eastern Hamitic"
+	}, {
+		"total_population" : 2131810.24,
+		"num_countries" : 1,
+		"ethnic_group" : "Native American"
+	}, {
+		"total_population" : 2.092434304E7,
+		"num_countries" : 1,
+		"ethnic_group" : "Mangbetu-Azande"
+	}, {
+		"total_population" : 14241.82,
+		"num_countries" : 1,
+		"ethnic_group" : "European Chinese"
+	}, {
+		"total_population" : 137746.79499999998,
+		"num_countries" : 3,
+		"ethnic_group" : "Pacific Islander"
+	}, {
+		"total_population" : 998308.96,
+		"num_countries" : 1,
+		"ethnic_group" : "Eastern Nigritic"
+	}, {
+		"total_population" : 2709695.68,
+		"num_countries" : 1,
+		"ethnic_group" : "Equatorial Bantu"
+	}, {
+		"total_population" : 937.38796875,
+		"num_countries" : 1,
+		"ethnic_group" : "Russian Ukrainian"
+	}, {
+		"total_population" : 49757.72,
+		"num_countries" : 1,
+		"ethnic_group" : "Vietnamese/Chinese"
+	}, {
+		"total_population" : 1140924.56,
+		"num_countries" : 1,
+		"ethnic_group" : "Northwestern Bantu"
+	}, {
+		"total_population" : 2879181.44,
+		"num_countries" : 1,
+		"ethnic_group" : "Moldavian/Romanian"
+	}, {
+		"total_population" : 5287541.12,
+		"num_countries" : 1,
+		"ethnic_group" : "Gilaki Mazandarani"
+	}, {
+		"total_population" : 3.918111488E7,
+		"num_countries" : 1,
+		"ethnic_group" : "Mediterranean Nordic"
+	}, {
+		"total_population" : 4421082.56,
+		"num_countries" : 1,
+		"ethnic_group" : "Cameroon Highlanders"
+	}, {
+		"total_population" : 4962150.08,
+		"num_countries" : 1,
+		"ethnic_group" : "Amerindian Amerindian"
+	}, {
+		"total_population" : 1068114.48,
+		"num_countries" : 1,
+		"ethnic_group" : "foreign-born first-generation"
+	}, {
+		"total_population" : 68533.59,
+		"num_countries" : 1,
+		"ethnic_group" : "Twa"
+	}, {
+		"total_population" : 919512.48,
+		"num_countries" : 1,
+		"ethnic_group" : "Mon"
+	}, {
+		"total_population" : 3662969.28,
+		"num_countries" : 1,
+		"ethnic_group" : "Luo"
+	}, {
+		"total_population" : 989.1,
+		"num_countries" : 1,
+		"ethnic_group" : "None"
+	}, {
+		"total_population" : 4.413851648E7,
+		"num_countries" : 1,
+		"ethnic_group" : "Thai"
+	}, {
+		"total_population" : 327442.6,
+		"num_countries" : 1,
+		"ethnic_group" : "Sara"
+	}, {
+		"total_population" : 700814.4,
+		"num_countries" : 1,
+		"ethnic_group" : "Maur"
+	}, {
+		"total_population" : 732084.32,
+		"num_countries" : 1,
+		"ethnic_group" : "Turk"
+	}, {
+		"total_population" : 1113304.8,
+		"num_countries" : 1,
+		"ethnic_group" : "Baya"
+	}, {
+		"total_population" : 2657240.16,
+		"num_countries" : 1,
+		"ethnic_group" : "Bete"
+	}, {
+		"total_population" : 8403058.08,
+		"num_countries" : 8,
+		"ethnic_group" : "Serb"
+	}, {
+		"total_population" : 25278.0821875,
+		"num_countries" : 3,
+		"ethnic_group" : "Mixed"
+	}, {
+		"total_population" : 63121.05,
+		"num_countries" : 1,
+		"ethnic_group" : "Gypsy"
+	}, {
+		"total_population" : 130977.04,
+		"num_countries" : 1,
+		"ethnic_group" : "Mboum"
+	}, {
+		"total_population" : 9.910143004E7,
+		"num_countries" : 6,
+		"ethnic_group" : "Malay"
+	}, {
+		"total_population" : 315770.48,
+		"num_countries" : 1,
+		"ethnic_group" : "Maori"
+	}, {
+		"total_population" : 580894.04,
+		"num_countries" : 1,
+		"ethnic_group" : "Emiri"
+	}, {
+		"total_population" : 911312.48,
+		"num_countries" : 1,
+		"ethnic_group" : "Bhote"
+	}, {
+		"total_population" : 1111309.52,
+		"num_countries" : 1,
+		"ethnic_group" : "Welsh"
+	}, {
+		"total_population" : 1209490.56,
+		"num_countries" : 1,
+		"ethnic_group" : "Langi"
+	}, {
+		"total_population" : 1403759.52,
+		"num_countries" : 1,
+		"ethnic_group" : "Irish"
+	}, {
+		"total_population" : 1545767.36,
+		"num_countries" : 1,
+		"ethnic_group" : "Serer"
+	}, {
+		"total_population" : 1964868.64,
+		"num_countries" : 1,
+		"ethnic_group" : "Sotho"
+	}, {
+		"total_population" : 2549597.44,
+		"num_countries" : 1,
+		"ethnic_group" : "Mossi"
+	}, {
+		"total_population" : 3099435.52,
+		"num_countries" : 1,
+		"ethnic_group" : "Kamba"
+	}, {
+		"total_population" : 3218293.76,
+		"num_countries" : 1,
+		"ethnic_group" : "Karen"
+	}, {
+		"total_population" : 3221854.9269921873,
+		"num_countries" : 6,
+		"ethnic_group" : "White"
+	}, {
+		"total_population" : 3339553.28,
+		"num_countries" : 1,
+		"ethnic_group" : "Tamil"
+	}, {
+		"total_population" : 4605846.72,
+		"num_countries" : 2,
+		"ethnic_group" : "Peuhl"
+	}, {
+		"total_population" : 4651365.9125,
+		"num_countries" : 5,
+		"ethnic_group" : "Croat"
+	}, {
+		"total_population" : 4826630.4,
+		"num_countries" : 1,
+		"ethnic_group" : "Mande"
+	}, {
+		"total_population" : 5103280.64,
+		"num_countries" : 1,
+		"ethnic_group" : "Hausa"
+	}, {
+		"total_population" : 1.060642384E7,
+		"num_countries" : 3,
+		"ethnic_group" : "Tajik"
+	}, {
+		"total_population" : 1.0661966540000001E7,
+		"num_countries" : 2,
+		"ethnic_group" : "Greek"
+	}, {
+		"total_population" : 1.3141679555000002E7,
+		"num_countries" : 8,
+		"ethnic_group" : "Asian"
+	}, {
+		"total_population" : 1.494531328E7,
+		"num_countries" : 1,
+		"ethnic_group" : "Dutch"
+	}, {
+		"total_population" : 2.286866432E7,
+		"num_countries" : 1,
+		"ethnic_group" : "Oromo"
+	}, {
+		"total_population" : 2625.12,
+		"num_countries" : 1,
+		"ethnic_group" : "Tongan"
+	}, {
+		"total_population" : 8148.42,
+		"num_countries" : 1,
+		"ethnic_group" : "Danish"
+	}, {
+		"total_population" : 93956.58,
+		"num_countries" : 1,
+		"ethnic_group" : "Abkhaz"
+	}, {
+		"total_population" : 97474.08,
+		"num_countries" : 1,
+		"ethnic_group" : "Greeks"
+	}, {
+		"total_population" : 3.8881175846875E7,
+		"num_countries" : 7,
+		"ethnic_group" : "Polish"
+	}, {
+		"total_population" : 8.9227759551875E7,
+		"num_countries" : 9,
+		"ethnic_group" : "German"
+	}, {
+		"total_population" : 156234.64,
+		"num_countries" : 1,
+		"ethnic_group" : "Gagauz"
+	}, {
+		"total_population" : 383366.68,
+		"num_countries" : 1,
+		"ethnic_group" : "Fijian"
+	}, {
+		"total_population" : 806327.04,
+		"num_countries" : 1,
+		"ethnic_group" : "Acholi"
+	}, {
+		"total_population" : 1007908.8,
+		"num_countries" : 1,
+		"ethnic_group" : "Bagisu"
+	}, {
+		"total_population" : 1052819.52,
+		"num_countries" : 1,
+		"ethnic_group" : "Ulster"
+	}, {
+		"total_population" : 1073922.635,
+		"num_countries" : 3,
+		"ethnic_group" : "Muslim"
+	}, {
+		"total_population" : 1209490.56,
+		"num_countries" : 1,
+		"ethnic_group" : "Rwanda"
+	}, {
+		"total_population" : 1612654.08,
+		"num_countries" : 1,
+		"ethnic_group" : "Basogo"
+	}, {
+		"total_population" : 4995482.09,
+		"num_countries" : 3,
+		"ethnic_group" : "Slovak"
+	}, {
+		"total_population" : 5418984.7621875005,
+		"num_countries" : 7,
+		"ethnic_group" : "Jewish"
+	}, {
+		"total_population" : 6198871.04,
+		"num_countries" : 1,
+		"ethnic_group" : "Kikuyu"
+	}, {
+		"total_population" : 7836658.69,
+		"num_countries" : 5,
+		"ethnic_group" : "French"
+	}, {
+		"total_population" : 3.1263424E7,
+		"num_countries" : 1,
+		"ethnic_group" : "Burman"
+	}, {
+		"total_population" : 3.081018608E7,
+		"num_countries" : 2,
+		"ethnic_group" : "Mongol"
+	}, {
+		"total_population" : 664.056015625,
+		"num_countries" : 1,
+		"ethnic_group" : "Mulatto"
+	}, {
+		"total_population" : 3.370807552E7,
+		"num_countries" : 1,
+		"ethnic_group" : "Persian"
+	}, {
+		"total_population" : 5.199307596E7,
+		"num_countries" : 3,
+		"ethnic_group" : "Turkish"
+	}, {
+		"total_population" : 1.206015488E8,
+		"num_countries" : 1,
+		"ethnic_group" : "Bengali"
+	}, {
+		"total_population" : 2.3688641870999998E8,
+		"num_countries" : 20,
+		"ethnic_group" : "African"
+	}, {
+		"total_population" : 186602.5,
+		"num_countries" : 2,
+		"ethnic_group" : "Bosniak"
+	}, {
+		"total_population" : 579195.68,
+		"num_countries" : 1,
+		"ethnic_group" : "Songhai"
+	}, {
+		"total_population" : 612766.04,
+		"num_countries" : 4,
+		"ethnic_group" : "Italian"
+	}, {
+		"total_population" : 806327.04,
+		"num_countries" : 1,
+		"ethnic_group" : "Lugbara"
+	}, {
+		"total_population" : 877521.12,
+		"num_countries" : 1,
+		"ethnic_group" : "Kuwaiti"
+	}, {
+		"total_population" : 1816880.1687500002,
+		"num_countries" : 3,
+		"ethnic_group" : "Slovene"
+	}, {
+		"total_population" : 1778141.92,
+		"num_countries" : 1,
+		"ethnic_group" : "Chuvash"
+	}, {
+		"total_population" : 3426889.92,
+		"num_countries" : 1,
+		"ethnic_group" : "Baganda"
+	}, {
+		"total_population" : 3589937.6,
+		"num_countries" : 1,
+		"ethnic_group" : "Colored"
+	}, {
+		"total_population" : 1.571023968E7,
+		"num_countries" : 2,
+		"ethnic_group" : "Kurdish"
+	}, {
+		"total_population" : 3.258045215226562E7,
+		"num_countries" : 23,
+		"ethnic_group" : "Chinese"
+	}, {
+		"total_population" : 21829.8,
+		"num_countries" : 1,
+		"ethnic_group" : "Andorran"
+	}, {
+		"total_population" : 9.3041988595E7,
+		"num_countries" : 2,
+		"ethnic_group" : "Javanese"
+	}, {
+		"total_population" : 159808.22999999998,
+		"num_countries" : 2,
+		"ethnic_group" : "Filipino"
+	}, {
+		"total_population" : 371726.48,
+		"num_countries" : 1,
+		"ethnic_group" : "Bahraini"
+	}, {
+		"total_population" : 818347.44,
+		"num_countries" : 1,
+		"ethnic_group" : "Mandingo"
+	}, {
+		"total_population" : 1713941.44,
+		"num_countries" : 1,
+		"ethnic_group" : "Tigrinya"
+	}, {
+		"total_population" : 2214366.72,
+		"num_countries" : 1,
+		"ethnic_group" : "Senoufou"
+	}, {
+		"total_population" : 3381202.24,
+		"num_countries" : 1,
+		"ethnic_group" : "Kalenjin"
+	}, {
+		"total_population" : 3383525.12,
+		"num_countries" : 1,
+		"ethnic_group" : "Lao Loum"
+	}, {
+		"total_population" : 1.549586944E7,
+		"num_countries" : 1,
+		"ethnic_group" : "Madurese"
+	}, {
+		"total_population" : 1.9366548985E7,
+		"num_countries" : 2,
+		"ethnic_group" : "Romanian"
+	}, {
+		"total_population" : 20469.24,
+		"num_countries" : 1,
+		"ethnic_group" : "Wallisian"
+	}, {
+		"total_population" : 29565.9,
+		"num_countries" : 1,
+		"ethnic_group" : "Alemannic"
+	}, {
+		"total_population" : 98596.98,
+		"num_countries" : 1,
+		"ethnic_group" : "Pakistani"
+	}, {
+		"total_population" : 4.386567791125E7,
+		"num_countries" : 10,
+		"ethnic_group" : "Ukrainian"
+	}, {
+		"total_population" : 391859.08,
+		"num_countries" : 1,
+		"ethnic_group" : "Beri Beri"
+	}, {
+		"total_population" : 1037249.36,
+		"num_countries" : 1,
+		"ethnic_group" : "Moldavian"
+	}, {
+		"total_population" : 1.1828285900000002E7,
+		"num_countries" : 6,
+		"ethnic_group" : "Hungarian"
+	}, {
+		"total_population" : 1.372927488E7,
+		"num_countries" : 1,
+		"ethnic_group" : "Sinhalese"
+	}, {
+		"total_population" : 1.803133952E7,
+		"num_countries" : 1,
+		"ethnic_group" : "Taiwanese"
+	}, {
+		"total_population" : 2.5970249275937498E7,
+		"num_countries" : 4,
+		"ethnic_group" : "Caucasian"
+	}, {
+		"total_population" : 5075.04,
+		"num_countries" : 1,
+		"ethnic_group" : "Monegasque"
+	}, {
+		"total_population" : 14905.11,
+		"num_countries" : 1,
+		"ethnic_group" : "Portuguese"
+	}, {
+		"total_population" : 6.34266699440625E7,
+		"num_countries" : 3,
+		"ethnic_group" : "Vietnamese"
+	}, {
+		"total_population" : 6.8551753728E8,
+		"num_countries" : 1,
+		"ethnic_group" : "Indo-Aryan"
+	}, {
+		"total_population" : 651151.91,
+		"num_countries" : 3,
+		"ethnic_group" : "Melanesian"
+	}, {
+		"total_population" : 818347.44,
+		"num_countries" : 1,
+		"ethnic_group" : "Toucouleur"
+	}, {
+		"total_population" : 1094669.84,
+		"num_countries" : 1,
+		"ethnic_group" : "Lao Theung"
+	}, {
+		"total_population" : 1940905.76,
+		"num_countries" : 1,
+		"ethnic_group" : "Afro-Asian"
+	}, {
+		"total_population" : 2920478.72,
+		"num_countries" : 1,
+		"ethnic_group" : "Lithuanian"
+	}, {
+		"total_population" : 2.9245258387500003E7,
+		"num_countries" : 6,
+		"ethnic_group" : "Amerindian"
+	}, {
+		"total_population" : 109356.02,
+		"num_countries" : 1,
+		"ethnic_group" : "Gourmantche"
+	}, {
+		"total_population" : 192991.64,
+		"num_countries" : 1,
+		"ethnic_group" : "Mixed Black"
+	}, {
+		"total_population" : 275207.3,
+		"num_countries" : 1,
+		"ethnic_group" : "Amerindians"
+	}, {
+		"total_population" : 371713.16,
+		"num_countries" : 1,
+		"ethnic_group" : "West Indian"
+	}, {
+		"total_population" : 877171.9840625001,
+		"num_countries" : 3,
+		"ethnic_group" : "East Indian"
+	}, {
+		"total_population" : 1704172.72,
+		"num_countries" : 2,
+		"ethnic_group" : "South Asian"
+	}, {
+		"total_population" : 1.586262272E7,
+		"num_countries" : 1,
+		"ethnic_group" : "Azerbaijani"
+	}, {
+		"total_population" : 35755.855,
+		"num_countries" : 1,
+		"ethnic_group" : "Euro-African"
+	}, {
+		"total_population" : 703187.52,
+		"num_countries" : 1,
+		"ethnic_group" : "Arab Iranian"
+	}, {
+		"total_population" : 1104394.8,
+		"num_countries" : 1,
+		"ethnic_group" : "black-Indian"
+	}, {
+		"total_population" : 9684748.127500001,
+		"num_countries" : 6,
+		"ethnic_group" : "Byelorussian"
+	}, {
+		"total_population" : 150768.0,
+		"num_countries" : 2,
+		"ethnic_group" : "Norman-French"
+	}, {
+		"total_population" : 391886.52,
+		"num_countries" : 1,
+		"ethnic_group" : "Afro-European"
+	}, {
+		"total_population" : 775374.08,
+		"num_countries" : 1,
+		"ethnic_group" : "Indo-Mauritian"
+	}, {
+		"total_population" : 1.829493248E7,
+		"num_countries" : 1,
+		"ethnic_group" : "Amhara Tigrean"
+	}, {
+		"total_population" : 22805.12,
+		"num_countries" : 1,
+		"ethnic_group" : "Franco-Mauritian"
+	}, {
+		"total_population" : 77858.25,
+		"num_countries" : 1,
+		"ethnic_group" : "Afro-East Indian"
+	}, {
+		"total_population" : 1993477.04,
+		"num_countries" : 2,
+		"ethnic_group" : "Palestinian Arab"
+	}, {
+		"total_population" : 90927.49,
+		"num_countries" : 1,
+		"ethnic_group" : "European Lebanese"
+	}, {
+		"total_population" : 105489.45,
+		"num_countries" : 1,
+		"ethnic_group" : "Americo-Liberians"
+	}, {
+		"total_population" : 245662.5,
+		"num_countries" : 1,
+		"ethnic_group" : "Dagestani Peoples"
+	}, {
+		"total_population" : 447819.48,
+		"num_countries" : 1,
+		"ethnic_group" : "Lao Soung Hmong Yao"
+	}, {
+		"total_population" : 359235.92,
+		"num_countries" : 1,
+		"ethnic_group" : "African-white-Indian"
+	}, {
+		"total_population" : 45705.3,
+		"num_countries" : 1,
+		"ethnic_group" : "European Syrian-Lebanese"
+	}, {
+		"total_population" : 1.36165952E7,
+		"num_countries" : 1,
+		"ethnic_group" : "European European-Indian"
+	}, {
+		"total_population" : 82452.0,
+		"num_countries" : 1,
+		"ethnic_group" : "European/Caribbean Indian"
+	}, {
+		"total_population" : 6315463.68,
+		"num_countries" : 1,
+		"ethnic_group" : "Mestizo - Amerindian-Spanish"
+	} ]
+	,
+	"plans":{},
+	"status": "success",
+	"metrics": {
+		"elapsedTime": "100.995259ms",
+		"executionTime": "100.650381ms",
+		"resultCount": 262,
+		"resultSize": 24456,
+		"processedObjects": 1
+	}
+}

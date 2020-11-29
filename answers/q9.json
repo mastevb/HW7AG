@@ -1,0 +1,15 @@
+{
+	"requestID": "1184a86d-5bda-44b0-b0e8-fa9caeaeb406",
+	"signature": "*",
+	"results": [  ]
+	,
+	"plans":{},
+	"status": "success",
+	"metrics": {
+		"elapsedTime": "15.996006ms",
+		"executionTime": "15.744644ms",
+		"resultCount": 0,
+		"resultSize": 0,
+		"processedObjects": 0
+	}
+}

@@ -1,0 +1,124 @@
+{
+	"requestID": "7619f6b2-ce4e-4a0b-a94b-0fdcfedd79d9",
+	"signature": "*",
+	"results": [ {
+		"mountains" : [
+			{
+				"mountain" : "Mt Fairweather"
+			},
+			{
+				"mountain" : "Mt Bona"
+			},
+			{
+				"mountain" : "Mt St.Elias"
+			}
+		],
+		"seas" : [
+			{
+				"sea" : "Atlantic Ocean"
+			},
+			{
+				"sea" : "Arctic Ocean"
+			},
+			{
+				"sea" : "Pacific Ocean"
+			}
+		],
+		"first_country" : "Canada",
+		"second_country" : "United States"
+	}, {
+		"mountains" : [
+			{
+				"mountain" : "Mont Blanc"
+			}
+		],
+		"seas" : [
+			{
+				"sea" : "Mediterranean Sea"
+			}
+		],
+		"first_country" : "France",
+		"second_country" : "Italy"
+	}, {
+		"mountains" : [
+			{
+				"mountain" : "Llullaillaco"
+			},
+			{
+				"mountain" : "Ojos del Salado"
+			}
+		],
+		"seas" : [
+			{
+				"sea" : "Atlantic Ocean"
+			}
+		],
+		"first_country" : "Argentina",
+		"second_country" : "Chile"
+	}, {
+		"mountains" : [
+			{
+				"mountain" : "Vignemale"
+			}
+		],
+		"seas" : [
+			{
+				"sea" : "Mediterranean Sea"
+			},
+			{
+				"sea" : "Atlantic Ocean"
+			}
+		],
+		"first_country" : "Spain",
+		"second_country" : "France"
+	}, {
+		"mountains" : [
+			{
+				"mountain" : "Kasbek"
+			}
+		],
+		"seas" : [
+			{
+				"sea" : "Black Sea"
+			}
+		],
+		"first_country" : "Georgia",
+		"second_country" : "Russia"
+	}, {
+		"mountains" : [
+			{
+				"mountain" : "Sulitjelma"
+			}
+		],
+		"seas" : [
+			{
+				"sea" : "Skagerrak"
+			}
+		],
+		"first_country" : "Norway",
+		"second_country" : "Sweden"
+	}, {
+		"mountains" : [
+			{
+				"mountain" : "Changbai Shan"
+			}
+		],
+		"seas" : [
+			{
+				"sea" : "Yellow Sea"
+			}
+		],
+		"first_country" : "North Korea",
+		"second_country" : "China"
+	} ]
+	,
+	"plans":{},
+	"status": "success",
+	"metrics": {
+		"elapsedTime": "174.382516ms",
+		"executionTime": "172.720148ms",
+		"resultCount": 7,
+		"resultSize": 1539,
+		"processedObjects": 512
+	}
+}

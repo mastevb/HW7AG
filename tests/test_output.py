@@ -1,6 +1,5 @@
 import unittest
 import re
-import pyodbc
 import json
 from decimal import *
 from gradescope_utils.autograder_utils.decorators import weight, visibility, \

@@ -1,19 +1,21 @@
 #!/usr/bin/env bash
 
 # copy submission files for testing
-cp /autograder/submission/hw5-q1.sql /autograder/source/submission
-cp /autograder/submission/hw5-q2.sql /autograder/source/submission
-cp /autograder/submission/hw5-q3.sql /autograder/source/submission
-cp /autograder/submission/hw5-q4.sql /autograder/source/submission
-cp /autograder/submission/hw5-q5.sql /autograder/source/submission
-cp /autograder/submission/hw5-q6.sql /autograder/source/submission
-cp /autograder/submission/hw5-q7.sql /autograder/source/submission
+cp /autograder/submission/hw5-q1.sqlp /autograder/source/submission
+cp /autograder/submission/hw5-q2.sqlp /autograder/source/submission
+cp /autograder/submission/hw5-q3.sqlp /autograder/source/submission
+cp /autograder/submission/hw5-q4.sqlp /autograder/source/submission
+cp /autograder/submission/hw5-q5.sqlp /autograder/source/submission
+cp /autograder/submission/hw5-q6.sqlp /autograder/source/submission
+cp /autograder/submission/hw5-q7.sqlp /autograder/source/submission
 
 cd /autograder/source
 
+chmod u+r+x asterixDB/opt/local/bin/start-sample-cluster.sh
 ./asterixDB/opt/local/bin/start-sample-cluster.sh
 
 python run_tests.py --timeout=1200
 
+chmod u+r+x asterixDB/opt/local/bin/stop-sample-cluster.sh
 ./asterixDB/opt/local/bin/stop-sample-cluster.sh
 

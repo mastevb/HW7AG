@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-apt-get install -y python python-pip python-dev
+apt-get install -y python python-pip3 python-dev
 
 # configure Microsoft Azure driver for sql
 # apt-get install python python-pip gcc g++ build-essential
@@ -14,4 +14,4 @@ apt-get install -y python python-pip python-dev
 # pip install pytest-timeout
 
 # install requirements
-pip install -r /autograder/source/requirements.txt
+pip3 install -r /autograder/source/requirements.txt

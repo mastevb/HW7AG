@@ -1,4 +1,4 @@
-from urllib import parse, request
+from urllib3 import parse, request
 from json import loads
 
 class QueryResponse:

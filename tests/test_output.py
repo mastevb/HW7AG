@@ -9,10 +9,9 @@ from gradescope_utils.autograder_utils.decorators import weight, visibility, \
 
 class Helper:
     @staticmethod
-    def load_problem(sub_file, ans_file, c):
+    def load_problem(sub_file, ans_file):
         sub = open(sub_file).read()
-        rows = c.execute(sub)
-        rows = rows.fetchall()
+        rows = self.connection.query("'''" + sub + "'''")
 
         ans = open(ans_file, 'r').read()
         ans = json.loads(ans)
@@ -64,18 +63,8 @@ class TestOutput(unittest.TestCase):
         self.sol_path = "/autograder/source/solutions/"
         self.answers_path = '/autograder/source/answers/'
 
-        # set up connection to Azure 
-        server = 'cse414-server.database.windows.net'
-        database = 'cse414-20au'
-        username = 'cse414'
-        password = 'EufBf49b3R2DQXy'
-        driver = '{ODBC Driver 17 for SQL Server}'
-        self.conn = pyodbc.connect(
-            'DRIVER=' + driver + ';SERVER=' + server + ';PORT=1433;DATABASE=' + database + ';UID=' + username + ';PWD=' + password)
-        self.c = self.conn.cursor()
-
-    def tearDown(self):
-        self.conn.close()
+        # set up connection to AsterixDB
+        self.conn = AsterixConnection()
 
     @weight(0)
     # @visibility('after_due_date')
@@ -83,7 +72,7 @@ class TestOutput(unittest.TestCase):
     def test_q1(self):
         sub_path = self.sub_path + 'q1.sqlp'
         ans_path = self.answers_path + 'q1.json'
-        rows, ans = Helper.load_problem(sub_path, ans_path, self.c)
+        rows, ans = Helper.load_problem(sub_path, ans_path)
         Helper.compare(rows, ans)
 
     @weight(0)
@@ -92,7 +81,7 @@ class TestOutput(unittest.TestCase):
     def test_q2(self):
         sub_path = self.sub_path + 'q2.sqlp'
         ans_path = self.answers_path + 'q2.json'
-        rows, ans = Helper.load_problem(sub_path, ans_path, self.c)
+        rows, ans = Helper.load_problem(sub_path, ans_path)
         Helper.compare(rows, ans)
 
     @weight(0)
@@ -101,7 +90,7 @@ class TestOutput(unittest.TestCase):
     def test_q3(self):
         sub_path = self.sub_path + 'q3.sqlp'
         ans_path = self.answers_path + 'q3.json'
-        rows, ans = Helper.load_problem(sub_path, ans_path, self.c)
+        rows, ans = Helper.load_problem(sub_path, ans_path)
         Helper.compare(rows, ans)
 
     @weight(0)
@@ -110,7 +99,7 @@ class TestOutput(unittest.TestCase):
     def test_q4(self):
         sub_path = self.sub_path + 'q4.sqlp'
         ans_path = self.answers_path + 'q4.json'
-        rows, ans = Helper.load_problem(sub_path, ans_path, self.c)
+        rows, ans = Helper.load_problem(sub_path, ans_path)
         Helper.compare(rows, ans)
 
     @weight(0)
@@ -119,7 +108,7 @@ class TestOutput(unittest.TestCase):
     def test_q1(self):
         sub_path = self.sub_path + 'q5.sqlp'
         ans_path = self.answers_path + 'q5.json'
-        rows, ans = Helper.load_problem(sub_path, ans_path, self.c)
+        rows, ans = Helper.load_problem(sub_path, ans_path)
         Helper.compare(rows, ans)
 
     @weight(0)
@@ -128,7 +117,7 @@ class TestOutput(unittest.TestCase):
     def test_q6(self):
         sub_path = self.sub_path + 'q6.sqlp'
         ans_path = self.answers_path + 'q6.json'
-        rows, ans = Helper.load_problem(sub_path, ans_path, self.c)
+        rows, ans = Helper.load_problem(sub_path, ans_path)
         Helper.compare(rows, ans)
 
     @weight(0)
@@ -137,7 +126,7 @@ class TestOutput(unittest.TestCase):
     def test_q7(self):
         sub_path = self.sub_path + 'q7.sqlp'
         ans_path = self.answers_path + 'q7.json'
-        rows, ans = Helper.load_problem(sub_path, ans_path, self.c)
+        rows, ans = Helper.load_problem(sub_path, ans_path)
         Helper.compare(rows, ans)
 
     @weight(0)
@@ -146,7 +135,7 @@ class TestOutput(unittest.TestCase):
     def test_q8(self):
         sub_path = self.sub_path + 'q8.sqlp'
         ans_path = self.answers_path + 'q8.json'
-        rows, ans = Helper.load_problem(sub_path, ans_path, self.c)
+        rows, ans = Helper.load_problem(sub_path, ans_path)
         Helper.compare(rows, ans)
 
     @weight(0)
@@ -155,7 +144,7 @@ class TestOutput(unittest.TestCase):
     def test_q9(self):
         sub_path = self.sub_path + 'q9.sqlp'
         ans_path = self.answers_path + 'q9.json'
-        rows, ans = Helper.load_problem(sub_path, ans_path, self.c)
+        rows, ans = Helper.load_problem(sub_path, ans_path)
         Helper.compare(rows, ans)
 
     @weight(0)
@@ -164,7 +153,7 @@ class TestOutput(unittest.TestCase):
     def test_q10(self):
         sub_path = self.sub_path + 'q10.sqlp'
         ans_path = self.answers_path + 'q10.json'
-        rows, ans = Helper.load_problem(sub_path, ans_path, self.c)
+        rows, ans = Helper.load_problem(sub_path, ans_path)
         Helper.compare(rows, ans)
 
     @weight(0)
@@ -173,7 +162,7 @@ class TestOutput(unittest.TestCase):
     def test_q11(self):
         sub_path = self.sub_path + 'q11.sqlp'
         ans_path = self.answers_path + 'q11.json'
-        rows, ans = Helper.load_problem(sub_path, ans_path, self.c)
+        rows, ans = Helper.load_problem(sub_path, ans_path)
         Helper.compare(rows, ans)
 
     @weight(0)
@@ -182,5 +171,5 @@ class TestOutput(unittest.TestCase):
     def test_q12(self):
         sub_path = self.sub_path + 'q12.sqlp'
         ans_path = self.answers_path + 'q12.json'
-        rows, ans = Helper.load_problem(sub_path, ans_path, self.c)
+        rows, ans = Helper.load_problem(sub_path, ans_path)
         Helper.compare(rows, ans)

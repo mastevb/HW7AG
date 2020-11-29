@@ -11,41 +11,9 @@ cp /autograder/submission/hw3-q7.sql /autograder/source/submission
 
 cd /autograder/source
 
-# curl -v --data-urlencode "statement=`cat q12sol.sqlp`" --data pretty=true http://localhost:19002/query/service > q12sol.txt
-
-# QN="q7"
-for NUMM in `seq 1 9`; do
-QN="q${NUMM}"
-
-OUTP="../out"
-OUTPATH="../out/${QN}"
-mkdir -p "$OUTPATH"
-echo -e "netid\t${QN}-cardinality\t${QN}-cardinalityMatch\t${QN}-comparisonMatch\t${QN}-error" > "$OUTP/$QN.txt"
-
-q="$QN"
-curl -v --data-urlencode "statement=`cat /media/shr_data/gits/414/sol-hw7/hw5_grader/sol/hw5-$q.sqlp`" --data pretty=true http://localhost:19002/query/service > /media/shr_data/gits/414/sol-hw7/hw5_grader/sol/$q.txt
-
-
-for file in $(ls -1 */${QN}.sqlp | tail -n 200); do
-  cserec="${file%%\/*}"
-  user="${cserec##*-}"
-  echo $file $user
-  curl -v --data-urlencode "statement=`cat $file`" --data pretty=true http://localhost:19002/query/service > "$OUTPATH/$user.txt"
-  RESULT=$(python /media/shr_data/gits/414/sol-hw7/hw5_grader/parse_results.py "/media/shr_data/gits/414/sol-hw7/hw5_grader/sol/$QN.txt" "$OUTPATH/$user.txt") #>> "$OUTPATH/0comparison-$user.txt"
-  if [ "$RESULT" ]; then
-  	echo -e "$user\t$RESULT\t"
-  	echo -e "$user\t$RESULT\t" >> "$OUTP/$QN.txt"
-  else
-  	err=$(grep msg "$OUTPATH/$user.txt")
-  	err=${err%\"*}
-  	err=${err:10}
-  	echo -e "$user\t\t\t\t${err}"
-  	echo -e "$user\t\t\t\t${err}" >> "$OUTP/$QN.txt"
-  fi
-done
-
-done
-
-# for file in cse344-*/hw/hw5/submission/hw5-q11.sqlp; do echo ${file%/}; done
+./autograder/source/asterixDB/opt/local/bin/start-sample-cluster.sh
 
 python run_tests.py --timeout=1200
+
+./autograder/source/asterixDB/opt/local/bin/stop-sample-cluster.sh
+
